@@ -53,6 +53,12 @@ This repo has the **notebooks from my YouTube series "Hire-Ready Data Science"**
 
 ---
 
+## Free tools
+
+- **[Smart Teleprompter](https://isajafari1989.github.io/Data-Science-With-Isa/teleprompter/)** — a free browser teleprompter. Paste a script, and read it on your phone or laptop (speed, size, mirror, voice-follow, and camera recording). [How it works](teleprompter/README.md).
+
+---
+
 ## How to run the notebooks
 
 1. Install Python and Jupyter (Episode 2 shows how).
